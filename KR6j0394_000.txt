@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說金剛香菩薩大明成就儀軌經
+#+DATE: 2015-08-30 20:31:32.876090
+#+PROPERTY: JUAN 0
