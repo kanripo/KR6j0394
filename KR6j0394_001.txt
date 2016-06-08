@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:32.591372
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:02
 #+TITLE: 佛說金剛香菩薩大明成就儀軌經
 #+PROPERTY: CBETA_ID T20n1170
 #+PROPERTY: ID KR6j0394
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1170
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0394_T_000-0691c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0394_T_001-0691c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1170¶
-
- 佛說金剛香菩薩大明成就儀軌¶
+No. 1170¶
+佛說金剛香菩薩大明成就儀軌¶
 經卷上¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
